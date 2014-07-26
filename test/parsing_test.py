@@ -6,7 +6,7 @@ from nose.tools import assert_raises
 from StringIO import StringIO
 
 import sys
-sys.path.append('..')
+##sys.path.append('..')
 
 from lib.parser import main
 
